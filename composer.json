@@ -8,6 +8,12 @@
       "App\\": "app/"
     }
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/0x3b3fc/hannwork"
+    }
+  ],
   "authors": [
     {
       "name": "0x3b3fc",
