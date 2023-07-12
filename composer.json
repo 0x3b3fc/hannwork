@@ -14,8 +14,7 @@
       "email": "support@siefhesham.tech"
     }
   ],
-  "minimum-stability": "dev",
-  "prefer-stable": true,
+  "minimum-stability": "stable",
   "require": {
     "php": "^8.0",
     "0x3b3fc/framework": "1.0.*"
