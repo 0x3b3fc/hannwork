@@ -21,6 +21,7 @@
     }
   ],
   "minimum-stability": "stable",
+  "prefer-stable": true,
   "require": {
     "php": "^8.0",
     "0x3b3fc/framework": "dev-main@dev"
