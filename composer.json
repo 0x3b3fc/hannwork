@@ -17,6 +17,6 @@
   "minimum-stability": "stable",
   "require": {
     "php": "^8.0",
-    "0x3b3fc/hannwork": "1.0.*"
+    "0x3b3fc/framework": "1.0.*"
   }
 }
