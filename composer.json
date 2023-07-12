@@ -1,0 +1,22 @@
+{
+  "name": "0x3b3fc/hannwork",
+  "description": "Hannwork Framework Created By [0x3b3fc | Sief Hesham]",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "0x3b3fc",
+      "email": "support@siefhesham.tech"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^8.0",
+    "0x3b3fc/hannwork": "1.0.*"
+  }
+}
